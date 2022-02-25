@@ -17,4 +17,4 @@ http://www.cs.waikato.ac.nz/ml/weka
 
 and
 
-http://wiki.pentaho.com/display/DATAMINING/Pentaho+Data+Mining+Community+Documentation
+https://pentaho-community.atlassian.net/wiki/display/DATAMINING/Pentaho+Data+Mining+Community+Documentation
